@@ -2,4 +2,4 @@
 - Development Team Lead @ NxtCloud
 - Buiding User-Centric Web Applications
 - interests: UX Design, Technical Leadership, Software Development, Cloud, AI
-- 4 × AWS Certified
+- 5 × AWS Certified
